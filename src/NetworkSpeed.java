@@ -30,7 +30,7 @@ public class NetworkSpeed {
 	       driver.findElement(By.cssSelector("button[routerlink='/library']")).click();
 	       long endTime=System.currentTimeMillis(); 
 	       System.out.println(endTime-startTime);
-	       System.out.println("endcccc");
+	       System.out.println("enddddd");
 //with low speed-15686  ,with speed-3176
 	}
 
